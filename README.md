@@ -13,7 +13,7 @@ Cineverse is a modern movie discovery app that allows users to explore trending,
 
 ## Demo
 
-<img src="assets/demo.gif" alt="App Demo" height="400"/>
+<img src="assets/demo.gif" alt="App Demo" height="600"/>
 
 <!-- Add screenshots here if available -->
 
@@ -37,7 +37,7 @@ Cineverse is a modern movie discovery app that allows users to explore trending,
 
 1. **Clone the repository:**
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/lwshakib/cineverse-movie-app.git
    cd cineverse
    ```
 2. **Install dependencies:**
